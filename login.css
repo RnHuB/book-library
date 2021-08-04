@@ -1,0 +1,19 @@
+#login {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    background-color: pink;
+    border: 2px solid brown;
+    align-items: center;
+    text-align: center;
+}
+
+#login input {
+    height: 30px;
+    width: 90%;
+}
+
+#login button {
+    width: 50%;
+    height: 50px;
+}
