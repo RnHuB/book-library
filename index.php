@@ -11,12 +11,12 @@
 <body>
          <header>
                 <div id='logo'>
-                 <img src="bookLogo.png" alt="error">
+                 <img src="./src/bookLogo.png" alt="error">
                 </div>
                 <h1>Library</h1>
             <div id='search'>
                 <input type="text" placeholder="Search">
-                <button>djs</button>
+                <button><img src="./src/searchLogo.png" alt="error"></button>
             </div>
             <div id='loginBar'>
                 <span><a href='./login.html'>User Login</a></span>
